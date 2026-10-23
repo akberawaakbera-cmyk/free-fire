@@ -1,0 +1,10 @@
+using System;
+Class Program
+{
+static void Main()
+{
+string name = "abu syed";
+Console.WriteLine(name);
+Console.WriteLine("hello world");
+}
+{
